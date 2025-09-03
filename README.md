@@ -31,7 +31,7 @@ The dataset can be accessed [on its Kaggle repository](https://www.kaggle.com/da
 ## Project Status
 
 - [x] Repository initialized  
-- [ ] Data cleaning & preprocessing  
+- [x] Data cleaning & preprocessing  
 - [ ] EDA completed  
 - [ ] Feature engineering  
 - [ ] Clustering models  
